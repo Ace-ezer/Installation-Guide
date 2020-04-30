@@ -39,6 +39,8 @@ sudo apt-get install code # or code-insiders
     2. Once it is downloaded, run the installer (VSCodeUserSetup-{version}.exe). This will only take a minute.
     3. By default, VS Code is installed under C:\users\{username}\AppData\Local\Programs\Microsoft VS Code.
 
+Download link: [VS code](https://code.visualstudio.com/Download)
+
 Alternatively, you can also download a [Zip archive](https://code.visualstudio.com/docs/?dv=winzip), extract it and run Code from there.
 
    > **Note**: .NET Framework 4.5.2 or higher is required for VS Code. If you are using Windows 7, make sure you have at least .NET Framework 4.5.2 installed. You can check your version of [.NET Framework](https://www.microsoft.com/download/details.aspx?id=42643) using this command, reg query "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\full" /v version from a command prompt.
